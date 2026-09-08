@@ -2,8 +2,6 @@
 
 An autonomous 4WD robot car that moves around, avoids obstacles using an ultrasonic sensor on a servo motor, and vacuums dust using an integrated fan motor.
 
-Developed for the Summer Training 2026 program at Mansoura University, Faculty of Engineering.
-
 ---
 
 ## Features
